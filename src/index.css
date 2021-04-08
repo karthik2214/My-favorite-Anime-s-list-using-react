@@ -36,4 +36,5 @@ ol{
   margin: 0 30px 0 30px;
   background: rgb(23,23,23);
   background-blend-mode: normal;
+  border-radius: 10px;
 }
